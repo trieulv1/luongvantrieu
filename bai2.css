@@ -1,0 +1,145 @@
+.trang0{
+	width: 100%;
+	height: 1850px;
+	background-color: #757573;
+}
+.trang{
+	width: 70%;
+	height: 700px;
+	background: black;
+	margin:0 auto;
+}
+
+.chu{
+	float: left;
+	width: 50%;
+	height: 280px;
+	background-color: white;
+}
+.hinh{
+	float: left;
+	width: 50%;
+	height: 280px;
+	background-color: white;
+}
+.rep{
+	float: left;
+	width: 30%;
+	height:  300px;
+	margin-left: 5%;
+	text-align: center;
+	background: black;
+}
+.dong2{
+	float: left;
+	width: 30%;
+	height: 300px;
+	text-align: center;
+	background: black;
+}
+.dong3{
+	float: left;
+	width: 30%;
+	height: 300px;
+	text-align: center;
+	background: black;
+}
+.dong4{
+	float: left;
+	width: 100%;
+	height: 180px;
+	background: white;
+	text-align: center;
+}
+
+.call{
+	width: 21.78%;
+	height: 400px;
+	float: left;
+	border:15px solid white;
+	background: white;
+}
+.call .hinh{
+	width: 96.3%;
+	height: 35%;
+	float: left;
+}
+.call .chu{
+	float: left;
+	width: 100%;
+	height: 63%;
+	background: white;
+	text-align: center;
+}
+.but{
+	width: 200px;
+	height: 50px;
+	border-top-right-radius: 80px;
+	border-top-left-radius: 50px;
+    border-bottom-left-radius:50px;
+	cursor: pointer;
+	background-color: #cfcf0e;
+	color: white;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.pri{
+	float: left;
+	width: 100%;
+	height: 180px;
+	text-align: center;
+	background-color: white;
+}
+.new{
+	width: 21.78%;
+	height: 400px;
+	float: left;
+	border:15px solid gray;
+	background: white;
+}
+.new .hinh{
+	float: left;
+	width: 100%;
+	height: 50%;
+
+}
+.new .chu{
+	float: left;
+	width: 100%;
+	height: 30%;
+	background: white;
+	text-align: center;
+
+}
+.butt{
+	width: 200px;
+	height: 50px;
+	border-top-right-radius: 80px;
+	border-top-left-radius: 50px;
+    border-bottom-left-radius:50px;
+	cursor: pointer;
+	background-color: black;
+	color: white;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.bottom{
+	float: left;
+	width: 50%;
+	height: 50px;
+	background: rgb(237 175 11);
+	text-align: center;
+	font-size: 15px;
+	color: white;
+}
+.cuoi{
+	float: left;
+	width: 50%;
+	height: 50px;
+	background: rgb(237 175 11);
+	text-align: center;
+	font-size: 15px;
+	color: white;
+}
