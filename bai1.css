@@ -1,0 +1,119 @@
+.trang0{
+	width:100%;
+	height: 2940px;
+	background-color: black; 
+}
+.trang0 .trang1{
+	width: 70%;
+	height: 100%;
+	background-color: white;
+    margin:0 auto;
+
+}
+.trang0 .dong1{
+	height: 50px;
+	width: 100%;
+	background: black;
+}
+.trang0 .dong2{
+	height: 230px;
+	width: 100%;
+	background: blue;
+}
+.trang0 .dong3{
+	height: 100px;
+	width: 100%;
+	background: white;
+}
+.trang0 .dong4{
+	height: 130px;
+	width: 100%;
+	background: white;
+}
+.trang0 .dong5{
+	height: 370px;
+	width: 100%;
+	background:white ;
+}
+.trang0 .dong6{
+	height: 300px;
+	width: 100%;
+	background: white;
+
+}
+.dong1 .ru{
+	width: 11.42%;
+	height: 100%;
+	background-color: black;
+	float: right;
+	font-size: 15px;
+
+}
+.dong2 .doan{
+	height: 100%;
+	width: 100%;
+}
+.dong3 .tron{
+	width: 25%;
+	height: 100%;
+	background-color: white;
+	float: left;
+}
+.dong3 .hi{
+	width: 95%;
+	height: 100%;
+	background-color: white;
+	float left:3%;
+	margin-left: 5%;  
+	
+}
+.dong3 .chu{
+	width: 50%;
+	height: 100%;
+	background-color: white;
+    float -top: 0%;
+}
+
+.acc{
+		width: 50%;
+	height: 100%;
+	background-color: white;
+	float: left;
+	font-size: 15px;
+
+}
+.o1{
+	height: 20px;
+	width: 58%;
+	background-color: #32a852;
+	margin-top: 10%;
+}
+.chu1{
+	height: 100%;
+	width: 25%;
+	float: left;
+	margin-left: 0 auto;
+}
+.h1{
+	height: 300px;
+	width: 50%;
+	background-color: white;
+	float: left;
+
+}
+.h2{
+	height: 300px;
+	width: 50%;
+	background-color: whi;
+	float: left;
+}
+
+.cuoi .ooo{
+	height: 100%;
+	width: 33%;
+	float: left;
+}
+.hinh .background-image{
+	height: 100%;
+	width: 100%;
+}
